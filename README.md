@@ -1,6 +1,6 @@
 # ⚙️ Data And UI System
 
-**Project Name:** ConfigurableUISystem | **Status:** Implementation Phase | **Platform:** PC / Mobile
+**Project Name:** DataAndUISystem | **Status:** Implementation Phase | **Platform:** PC / Mobile
 
 ---
 
