@@ -1,0 +1,7 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/StyleSheet.uss?fileID=7433441132597879392&amp;guid=d2672ee0fa8fe944cb1a74d7d842ee06&amp;type=3#StyleSheet" />
+    <ui:VisualElement name="ContainerVisualElement" class="container" style="margin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: auto; align-self: center; align-content: center; -unity-font-style: bold; font-size: 50px; background-color: rgb(0, 255, 255); color: rgb(0, 0, 255);">
+        <ui:Slider label="Master Volume" value="42" high-value="0" name="MasterVolumeSlider" low-value="-80" />
+        <ui:DropdownField label="Graphics Quality" name="QualityDropdownField" choices="Low,Medium,High,Ultra" index="1" style="-unity-text-align: middle-center;" />
+    </ui:VisualElement>
+</ui:UXML>
