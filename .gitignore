@@ -100,3 +100,8 @@ InitTestScene*.unity*
 DataAndUISystem/DataAndUISystem/Library/
 DataAndUISystem/DataAndUISystem/Temp/
 DataAndUISystem/DataAndUISystem/UserSettings/
+DataAndUISystem/.idea/
+DataAndUISystem/Library/
+DataAndUISystem/obj/
+DataAndUISystem/UserSettings/Layouts/default-6000.dwlt
+DataAndUISystem/Temp/
